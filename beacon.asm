@@ -1,5 +1,5 @@
 ; Controller ATtiny45 at 8 MHz internal RC oscillator
-; Broun-out at 1.8V, Fuse CKDIV8 is ON
+; Brown-out at 1.8V, Fuse CKDIV8 is ON
 
 .include "tn45def.inc"
 
